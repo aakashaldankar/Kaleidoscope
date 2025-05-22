@@ -5,6 +5,7 @@
 
 Whether it's prose, drama, or poetry – **Zero** helps enhance your understanding of each chapter by delivering insights in real-time.
 
+HuggingFace Space Link: https://huggingface.co/spaces/aakashaldankar/Kaleidoscope
 ---
 
 ## ✨ Why This Project Matters
