@@ -64,8 +64,8 @@ This project can be used in schools, tutoring apps, or self-learning platforms t
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/aakashaldankar/Kaleidoscope.git
-cd Kaleidoscope
+git clone https://github.com/aakashaldankar/KaleidoscopeQA.git
+cd KaleidoscopeQA
 ```
 
 2. **Create and Activate Virtual Environment (optional)**
